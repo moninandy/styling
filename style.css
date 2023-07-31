@@ -1,0 +1,103 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+
+}
+body{
+    background-color: rgb(248, 248, 2);
+}
+.felx-container{
+display:flex;
+flex-direction: row;
+margin: 30px 200px;
+padding: 10px;
+
+
+
+}
+
+
+#box3{
+    margin-top: 10px;
+}
+#box1{
+    margin-top: 10px;
+}
+
+
+.box_1{
+
+    border: 3px solid;
+   
+    width:297px;
+    height:450px;
+    margin: 5px 0px;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px 5px black;
+    
+
+}
+h1{
+    color:white;
+     text-align: center;
+
+}
+.heading{
+    text-align: center;
+border-radius: 12px 12px 0px 0px;
+    padding: 40px;
+    background-color:white;
+}
+.para{
+    background-color: green;
+    border-radius:  0px 0px  11px 11px;
+    height: 310px;
+    width: 290px;
+    padding: 35px;
+    color:white;
+}
+.para3{
+    background-color:red;
+    height: 310px;
+    border-radius:  0px 0px  11px 11px;
+    width: 290px;
+    padding: 35px;
+    color:white;
+}
+#first{
+    color:green;
+}
+#second{
+    color:violet;
+}
+#third{
+    color:red;
+}
+.para2{
+    background-color:violet;
+    border-radius:  0px 0px  11px 11px;
+    height: 310px;
+    width: 290px;
+    padding: 35px;
+    color:white;
+}
+.para >p
+{
+    margin: 15px;
+}
+.para2 >p
+{
+    margin: 15px;
+}
+.para3>p
+{
+    margin: 15px;
+}
+button{
+    margin: 14px;
+    padding:10px;
+    margin-left: 80px;
+    border-radius: 20px;
+}
